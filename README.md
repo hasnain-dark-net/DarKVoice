@@ -4,7 +4,7 @@
 DarkVoice is a professional audio-steganography tool designed to hide secret text messages inside WAV audio files using LSB (Least Significant Bit) encoding.
 
 ✔ Supports **two modes**:  
-1️⃣ **Normal Mode** – hide message without any key  
+1️⃣ **Normal Mode** – hide message without any key.  
 2️⃣ **Encrypted Mode** – hide message using strong SHA-256 key-based encryption  
 
 Perfect for cybersecurity researchers, steganography learners, and privacy enthusiasts.
